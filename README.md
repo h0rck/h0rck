@@ -3,7 +3,4 @@
   Bem vindo ao meu universo de código!
 </h2>
 
-<!-- Snake animation -->
-![Snake animation](https://github.com/h0rck/h0rck/blob/output/github-contribution-grid-snake.svg)
-
 
